@@ -1,0 +1,66 @@
+# Hi, I'm Jaydip Desai 👋  
+
+**MCA Student | Full-Stack Developer | Tech Enthusiast**  
+India 🇮🇳  
+
+---
+
+## 🚀 About Me  
+- 🎓 Pursuing Master of Computer Applications (MCA)  
+- 💻 Passionate about **web development, databases, and system design**  
+- 🔍 Interested in **Java, React, Node.js, SQL, and Blockchain basics**  
+- 📚 Love solving problems and learning new technologies every day  
+- 🤝 Open to collaborations on innovative projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Frameworks**  
+- Java, JavaScript (ES6+), Python, C  
+- React.js, Node.js, Express.js, JSP & Servlets  
+
+**Databases**  
+- MySQL, MongoDB, Oracle  
+
+**Tools & Platforms**  
+- Git, GitHub, VS Code, Postman, Eclipse, IntelliJ  
+- Basics of Docker, Cloud, Blockchain concepts  
+
+---
+
+## 📂 Featured Projects  
+
+### 🛒 Online Auction System  
+- Built using **JSP + Servlets** with Mediator Design Pattern  
+- Simulates real-time bidding between teams (e.g., CSK, MI, RCB)  
+
+### 🐍 Sundervan Snake Park Management  
+- Tracks snake bite cases and venom status changes  
+- Focused on 4 snake types: Cobra, Viper, Rat Snake, Python  
+
+### 🏨 Tourism Management System  
+- UML + System study diagrams (ER, DFD, Use Case, Activity)  
+- Designed as part of academic project documentation  
+
+### 👔 Employee Management System  
+- CRUD web app with **JSP, Servlets, MySQL, JSTL**  
+- Features: Employee listing, insert, update, delete, validations  
+
+---
+
+## 📊 GitHub Stats  
+
+![Jaydip's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-desai&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-desai&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- GitHub: [jaydip-desai](https://github.com/jaydip-desai)  
+- LinkedIn: *(Add your LinkedIn link here)*  
+- Email: *(Add your email here)*  
+
+---
+
+⭐ *“Keep coding, keep growing!”*  
