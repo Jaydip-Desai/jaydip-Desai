@@ -28,13 +28,13 @@ Hi, I'm Jaydip Desai 👋
 
 ---
 
-## 📂 Featured Projects  
+### 🔥 [Food Delivery System (2024–2025)](https://github.com/Jaydip-Desai/Food-Delivery-App)
+**Tech:** Java, Spring Boot, React.js, MongoDB  
+- Full-stack food ordering system with restaurant browsing, cart, and order placement  
+- User authentication with secure REST APIs  
+- MongoDB schema design for menus, orders, and customer data  
 
-### 🔥 Food Delivery System (2024–2025)
-Tech: Java, Spring Boot, React.js, MongoDB
-- Full-stack food ordering system with restaurant browsing, cart, and order placement
-- User authentication with secure REST APIs
-- MongoDB schema design for menus, orders, and customer data
+---
 
 ### 📄 Invoice Generator App (2025)
 Tech: React.js, Java, Spring Boot<br>
@@ -42,18 +42,21 @@ Tech: React.js, Java, Spring Boot<br>
 - PDF generation and export functionality<br>
 - Clean React UI and modular backend services
 
-### 💍 Jewelry Shop Web Application (2024)(https://github.com/Jaydip-Desai/E-Jwellary)
-Tech: JSP, Servlet, MySQL<br>
-- E-commerce-style web app for browsing jewelry items<br>
-- Shopping cart + order placement + admin product management<br>
-- Built using MVC architecture 
+
+### 💍 [Jewelry Shop Web Application (2024)](https://github.com/Jaydip-Desai/E-Jwellary)
+**Tech:** JSP, Servlet, MySQL  
+- E-commerce-style web app for browsing jewelry items  
+- Shopping cart + order placement + admin product management  
+- Built using MVC architecture  
+
+---
 
 ### 🌍 Titanic Foods & Spices Website (2023–2024)
-Tech: PHP, MySQL<br>
-- Fully responsive export-focused business website<br>
-- Product catalog, enquiry form for international buyers<br>
-- Admin panel for content management<br>
-- Live Link: https://titanicfoodsandspices.com 
+**Tech:** PHP, MySQL  
+- Fully responsive export-focused business website  
+- Product catalog, enquiry form for international buyers  
+- Admin panel for content management  
+- **Live Link:** https://titanicfoodsandspices.com  
 
 ---
 
