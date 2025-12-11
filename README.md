@@ -66,8 +66,8 @@ Live Link: https://titanicfoodsandspices.com
 ---
 
 ## 📫 Connect With Me  
-GitHub: https://github.com/jaydip-desai
-LinkedIn: https://www.linkedin.com/in/desai-jaydip-6b1617330
+GitHub: https://github.com/jaydip-desai<br>
+LinkedIn: https://www.linkedin.com/in/desai-jaydip-6b1617330<br>
 Email: djaydip889@gmail.com
 
 ---
