@@ -33,28 +33,28 @@ Ahmedabad, India 🇮🇳
 ### 🔥 Food Delivery System (2024–2025)
 
 Tech: Java, Spring Boot, React.js, MongoDB
--Full-stack food ordering system with restaurant browsing, cart, and order placement
--User authentication with secure REST APIs
--MongoDB schema design for menus, orders, and customer data
+- Full-stack food ordering system with restaurant browsing, cart, and order placement
+- User authentication with secure REST APIs
+- MongoDB schema design for menus, orders, and customer data
 
 ### 📄 Invoice Generator App (2025)
 Tech: React.js, Java, Spring Boot<br>
--System to generate invoices with a real-time preview<br>
--PDF generation and export functionality<br>
--Clean React UI and modular backend services
+- System to generate invoices with a real-time preview<br>
+- PDF generation and export functionality<br>
+- Clean React UI and modular backend services
 
 ### 💍 Jewelry Shop Web Application (2024)
 Tech: JSP, Servlet, MySQL<br>
--E-commerce-style web app for browsing jewelry items<br>
--Shopping cart + order placement + admin product management<br>
--Built using MVC architecture 
+- E-commerce-style web app for browsing jewelry items<br>
+- Shopping cart + order placement + admin product management<br>
+- Built using MVC architecture 
 
 🌍 Titanic Foods & Spices Website (2023–2024)
 Tech: PHP, MySQL<br>
--Fully responsive export-focused business website<br>
--Product catalog, enquiry form for international buyers<br>
--Admin panel for content management<br>
--Live Link: https://titanicfoodsandspices.com 
+- Fully responsive export-focused business website<br>
+- Product catalog, enquiry form for international buyers<br>
+- Admin panel for content management<br>
+- Live Link: https://titanicfoodsandspices.com 
 
 ---
 
