@@ -30,7 +30,7 @@ Hi, I'm Jaydip Desai 👋
 
 ## 📂 Featured Projects  
 
-### 🔥 Food Delivery System (2024–2025)
+### 🔥 Food Delivery System (2024–2025)(https://github.com/Jaydip-Desai/Food-Delivery-App)
 
 Tech: Java, Spring Boot, React.js, MongoDB
 - Full-stack food ordering system with restaurant browsing, cart, and order placement
@@ -43,7 +43,7 @@ Tech: React.js, Java, Spring Boot<br>
 - PDF generation and export functionality<br>
 - Clean React UI and modular backend services
 
-### 💍 Jewelry Shop Web Application (2024)
+### 💍 Jewelry Shop Web Application (2024)(https://github.com/Jaydip-Desai/E-Jwellary)
 Tech: JSP, Servlet, MySQL<br>
 - E-commerce-style web app for browsing jewelry items<br>
 - Shopping cart + order placement + admin product management<br>
