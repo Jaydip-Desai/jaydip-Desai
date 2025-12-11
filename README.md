@@ -58,10 +58,10 @@ Tech: PHP, MySQL<br>
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydip-desai&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-desai&layout=compact&theme=radical" height="160" />
-</p>
+![Jaydip's GitHub stats](https://github-readme-stats-git-master-jaydeep-yadav.vercel.app/api?username=jaydip-desai&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-git-master-jaydeep-yadav.vercel.app/api/top-langs/?username=jaydip-desai&layout=compact&theme=radical)
+
 
 ## 📫 Connect With Me  
 GitHub: https://github.com/jaydip-desai<br>
