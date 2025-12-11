@@ -58,8 +58,8 @@ India 🇮🇳
 
 ## 📫 Connect With Me  
 - GitHub: [jaydip-desai](https://github.com/jaydip-desai)  
-- LinkedIn: *(Add your LinkedIn link here)*  
-- Email: *(Add your email here)*  
+- LinkedIn:https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFfGwBIf2fNnwAAAZsOUEQgSXy_GV5lK3-ewe6t8IUlZB2tP--8U7i9t6yGwavhhsUiGO2pTP3xwgtgQRhJUaEctbQzHLZR9MHQtPe0KBrH7kVCZ8a5QjK2cQ5BtXgDdnF215w=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdesai-jaydip-6b1617330%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app
+- Email: djaydip889@gmail.com 
 
 ---
 
