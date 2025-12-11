@@ -32,10 +32,10 @@ Ahmedabad, India 🇮🇳
 
 ### 🔥 Food Delivery System (2024–2025)
 
-Tech: Java, Spring Boot, React.js, MongoDB<br>
-Full-stack food ordering system with restaurant browsing, cart, orders, and user authentication<br>
-Secure REST APIs with Spring Boot<br>
-MongoDB schema design for menu, order tracking, and customer data
+Tech: Java, Spring Boot, React.js, MongoDB
+Full-stack food ordering system with restaurant browsing, cart, and order placement
+User authentication with secure REST APIs
+MongoDB schema design for menus, orders, and customer data
 
 ### 📄 Invoice Generator App (2025)
 Tech: React.js, Java, Spring Boot<br>
