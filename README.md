@@ -1,13 +1,12 @@
-#👋 Hi, I'm Jaydip Desai
+Hi, I'm Jaydip Desai 👋
 
-#Full-Stack Developer | Java Developer | MCA Student
-#Ahmedabad,Gujarat
-#India 🇮🇳
+Full-Stack Developer | Java Developer | MCA Student
+Ahmedabad, India 🇮🇳
 ---
 
 ## 🚀 About Me  
 - 🎓 Pursuing Master of Computer Applications (MCA)  
-- 💻 Passionate about **web development, databases, and system design**  
+- 💻 Passionate about **Full Stack development, databases, and system design**  
 - 🔍 Interested in **Java, React, Node.js, SQL, and Blockchain basics**  
 - 📚 Love solving problems and learning new technologies every day  
 - 🤝 Open to collaborations on innovative projects  
@@ -31,21 +30,31 @@
 
 ## 📂 Featured Projects  
 
-### 🛒 Online Auction System  
-- Built using **JSP + Servlets** with Mediator Design Pattern  
-- Simulates real-time bidding between teams (e.g., CSK, MI, RCB)  
+### 🔥 Food Delivery System (2024–2025)
 
-### 🐍 Sundervan Snake Park Management  
-- Tracks snake bite cases and venom status changes  
-- Focused on 4 snake types: Cobra, Viper, Rat Snake, Python  
+Tech: Java, Spring Boot, React.js, MongoDB
+Full-stack food ordering system with restaurant browsing, cart, orders, and user authentication
+Secure REST APIs with Spring Boot
+MongoDB schema design for menu, order tracking, and customer data
 
-### 🏨 Tourism Management System  
-- UML + System study diagrams (ER, DFD, Use Case, Activity)  
-- Designed as part of academic project documentation  
+### 📄 Invoice Generator App (2025)
+Tech: React.js, Java, Spring Boot
+System to generate invoices with a real-time preview
+PDF generation and export functionality
+Clean React UI and modular backend services
 
-### 👔 Employee Management System  
-- CRUD web app with **JSP, Servlets, MySQL, JSTL**  
-- Features: Employee listing, insert, update, delete, validations  
+### 💍 Jewelry Shop Web Application (2024)
+Tech: JSP, Servlet, MySQL
+E-commerce-style web app for browsing jewelry items
+Shopping cart + order placement + admin product management
+Built using MVC architecture 
+
+🌍 Titanic Foods & Spices Website (2023–2024)
+Tech: PHP, MySQL
+Fully responsive export-focused business website
+Product catalog, enquiry form for international buyers
+Admin panel for content management
+Live Link: https://titanicfoodsandspices.com 
 
 ---
 
@@ -57,10 +66,10 @@
 ---
 
 ## 📫 Connect With Me  
-- GitHub: [jaydip-desai](https://github.com/jaydip-desai)  
-- LinkedIn:https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFfGwBIf2fNnwAAAZsOUEQgSXy_GV5lK3-ewe6t8IUlZB2tP--8U7i9t6yGwavhhsUiGO2pTP3xwgtgQRhJUaEctbQzHLZR9MHQtPe0KBrH7kVCZ8a5QjK2cQ5BtXgDdnF215w=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdesai-jaydip-6b1617330%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app
-- Email: djaydip889@gmail.com 
+GitHub: https://github.com/jaydip-desai
+LinkedIn: https://www.linkedin.com/in/desai-jaydip-6b1617330
+Email: djaydip889@gmail.com
 
 ---
 
-⭐ *“Keep coding, keep growing!”*  
+⭐ “Keep building, keep learning, keep growing.”
