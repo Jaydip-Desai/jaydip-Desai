@@ -1,7 +1,8 @@
 👋 Hi, I'm Jaydip Desai
 
 Full-Stack Developer | Java Developer | MCA Student
-Ahmedabad, India 🇮🇳
+Ahmedabad,Gujarat
+India 🇮🇳
 ---
 
 ## 🚀 About Me  
