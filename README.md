@@ -49,7 +49,7 @@ Tech: JSP, Servlet, MySQL<br>
 - Shopping cart + order placement + admin product management<br>
 - Built using MVC architecture 
 
-🌍 Titanic Foods & Spices Website (2023–2024)
+### 🌍 Titanic Foods & Spices Website (2023–2024)
 Tech: PHP, MySQL<br>
 - Fully responsive export-focused business website<br>
 - Product catalog, enquiry form for international buyers<br>
