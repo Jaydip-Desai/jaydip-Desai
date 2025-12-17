@@ -36,13 +36,6 @@ Hi, I'm Jaydip Desai 👋
 
 ---
 
-### 📄 [Food Delivery System (2024–2025)](https://github.com/Jaydip-Desai/Food-Delivery-App)
-Tech: React.js, Java, Spring Boot<br>
-- System to generate invoices with a real-time preview<br>
-- PDF generation and export functionality<br>
-- Clean React UI and modular backend services
-
-
 ### 💍 [Jewelry Shop Web Application (2024)](https://github.com/Jaydip-Desai/E-Jwellary)
 **Tech:** JSP, Servlet, MySQL  
 - E-commerce-style web app for browsing jewelry items  
