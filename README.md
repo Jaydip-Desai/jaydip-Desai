@@ -54,8 +54,10 @@ Hi, I'm Jaydip Desai 👋
 ---
 
 ## 📊 GitHub Stats  
+![Jaydip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydip-desai&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaydip-desai&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydip-desai&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-desai&layout=compact&theme=radical&hide=python)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-desai&layout=compact&langs_count=6&hide=python,c&theme=tokyonight)
 
 
 ---
