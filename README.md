@@ -1,44 +1,45 @@
 <h1 align="center">Hi 👋, I'm Jaydip Desai</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot Developer | MCA Student</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot Developer | Backend Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Backend+Developer;Full+Stack+Developer;React.js+%7C+REST+API+%7C+MySQL+%7C+MongoDB;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=2E9AFE&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;REST+API+Developer;React.js+%7C+Spring+Boot+%7C+MySQL+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Pursuing **Master of Computer Applications (MCA)**
+🎓 MCA Graduate
 
-💼 Java Full Stack Developer passionate about building scalable web applications.
+💼 Passionate Java Full Stack Developer with hands-on experience building scalable web applications using Java, Spring Boot, React.js, and SQL/NoSQL databases.
 
-🌱 Currently learning:
+🌱 Currently Learning
 - Spring Boot Microservices
 - Spring Security & JWT
 - Docker
 - System Design
+- AWS
 
-💡 Interested in
-- Enterprise Application Development
+💡 Interested In
 - Backend Development
+- Enterprise Application Development
 - REST API Development
-- Database Design
+- Microservices Architecture
 - Cloud Technologies
 
 📍 Ahmedabad, Gujarat, India
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp"/>
 </p>
 
-### ⚙ Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,maven"/>
@@ -50,13 +51,18 @@
 - REST APIs
 - JSP & Servlet
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
 </p>
 
-### 🗄 Database
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+## 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
@@ -64,7 +70,7 @@
 
 - Oracle SQL
 
-### 🛠 Tools
+## 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
@@ -82,17 +88,16 @@ Java • Spring Boot • React.js • MongoDB • Razorpay
 
 ### Features
 
-- User Authentication
-- Restaurant Menu
+- Secure User Authentication
+- Restaurant & Menu Management
 - Shopping Cart
-- Online Payment
-- Razorpay Integration
+- Razorpay Payment Integration
 - Real-time Order Tracking
+- Email Notifications
 - Admin Dashboard
 - Order Management
-- Email Notifications
 
-🔗 Repository:
+🔗 Repository  
 https://github.com/Jaydip-Desai/Food-Delivery-App
 
 ---
@@ -107,7 +112,7 @@ Java • Spring Boot • React.js • MySQL
 
 - Employee Management
 - Department Management
-- Attendance
+- Attendance Tracking
 - Leave Management
 - Task Management
 - Performance Evaluation
@@ -129,11 +134,10 @@ Java • Spring Boot • PostgreSQL
 - Document Management
 - Workflow Approval
 - Role-Based Authentication
-- REST APIs
 - Invoice Management
-- Notifications
+- REST APIs
+- Notification System
 - Secure Backend Architecture
-
 
 ---
 
@@ -169,7 +173,7 @@ JSP • Servlet • MySQL
 - Admin Panel
 - MVC Architecture
 
-🔗 Repository:
+🔗 Repository  
 https://github.com/Jaydip-Desai/E-Jwellary
 
 ---
@@ -187,8 +191,7 @@ PHP • MySQL
 - Inquiry Form
 - Admin Dashboard
 
-🌐 Live Website
-
+🌐 Live Website  
 https://titanicfoodsandspices.com
 
 ---
@@ -196,39 +199,31 @@ https://titanicfoodsandspices.com
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaydip-desai&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-desai&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaydip-Desai&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydip-Desai&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jaydip-desai&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Jaydip-Desai&theme=tokyonight"/>
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email
+📧 **Email**  
+**djaydip889@gmail.com**
 
-djaydip889@gmail.com
-
-💼 LinkedIn
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/desai-jaydip-6b1617330
 
-💻 GitHub
-
+💻 **GitHub**  
 https://github.com/Jaydip-Desai
 
 ---
 
-## 💬 Quote
+# 💬 Quote
 
-> "Code with passion, build with purpose, and never stop learning."
+> **"Code with passion, build with purpose, and never stop learning."**
 
 ⭐ Thanks for visiting my profile!
