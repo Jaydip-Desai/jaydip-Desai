@@ -215,7 +215,7 @@ https://titanicfoodsandspices.com
 **djaydip889@gmail.com**
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/desai-jaydip-6b1617330
+https://www.linkedin.com/in/desai-jaydip
 
 💻 **GitHub**  
 https://github.com/Jaydip-Desai
