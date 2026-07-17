@@ -134,7 +134,6 @@ Java • Spring Boot • PostgreSQL
 - Notifications
 - Secure Backend Architecture
 
-> Enterprise internship project (Source code not publicly available)
 
 ---
 
