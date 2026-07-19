@@ -141,24 +141,6 @@ Java • Spring Boot • PostgreSQL
 
 ---
 
-## 🏨 Hotel Booking Microservices
-
-**Tech Stack**
-
-Java • Spring Boot • Spring Cloud • MySQL
-
-### Features
-
-- User Service
-- Hotel Service
-- Booking Service
-- Rating Service
-- API Gateway
-- Eureka Server
-- OpenFeign
-
----
-
 ## 💎 Jewelry Shop Web Application
 
 **Tech Stack**
