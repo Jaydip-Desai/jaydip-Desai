@@ -12,7 +12,7 @@ Java Developer | Spring Boot Developer | Backend Developer
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=2E9AFE&center=true&vCenter=true&width=750&lines=Java+Developer;Spring+Boot+Backend+Developer;REST+API+Developer;React.js+%7C+Spring+Boot+%7C+PostgreSQL;AI-Assisted+Development;Always+Learning+New+Technologies" />{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=2E9AFE&center=true&vCenter=true&width=750&lines=Java+Developer;Spring+Boot+Backend+Developer;REST+API+Developer;React.js+%7C+Spring+Boot+%7C+PostgreSQL;AI-Assisted+Development;Always+Learning+New+Technologies" />
 
 </p>
 
