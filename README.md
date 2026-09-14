@@ -216,22 +216,39 @@ MeetApp supports meeting recording with:
 - Audit logging
 
 ---
-
-# 🚀 Featured Projects
-
 ## 🤖 AI Resume Analyzer
 
 **Tech Stack**
 
 Java • Spring Boot • React.js • REST APIs • AI API Integration • Maven
 
-### Features
+### 📌 Project Overview
 
-- Resume Upload & Analysis
-- Skill and Experience Extraction
-- AI-powered Resume Evaluation
-- Job-role Alignment Analysis
-- Resume Improvement Insights
+AI Resume Analyzer is a web-based application that analyzes resumes and provides AI-powered insights based on the candidate's skills, experience, and targeted job role.
+
+The application helps users understand how well their resume matches a particular job and provides suggestions for improving their resume.
+
+### ✨ Key Features
+
+- 📄 Resume Upload
+- 🔍 Resume Content Analysis
+- 🧠 AI-powered Resume Evaluation
+- 💼 Job-role Alignment Analysis
+- 🛠️ Skill Extraction
+- 📊 Experience Analysis
+- 💡 Resume Improvement Suggestions
+- 🔗 REST API-based backend
+- 🎨 Responsive React.js interface
+
+### 🏗️ Technical Implementation
+
+- Developed backend services using **Java and Spring Boot**
+- Created REST APIs for resume processing and analysis
+- Integrated AI APIs for intelligent resume evaluation
+- Built the frontend using **React.js**
+- Used Maven for project and dependency management
+- Implemented separation between frontend, backend, and AI processing layers
+
 
 ---
 
@@ -241,18 +258,38 @@ Java • Spring Boot • React.js • REST APIs • AI API Integration • Maven
 
 Java • Spring Boot • React.js • MySQL • Spring Security • JWT • Hibernate/JPA
 
-### Features
+### 📌 Project Overview
 
-- Employee Management
-- Department Management
-- Attendance Tracking
-- Leave Management
-- Task Management
-- Performance Evaluation
-- Document Management
-- JWT Authentication
-- Role-Based Access Control
-- Admin Dashboard
+Enterprise Employee CRM (HRMS) is a full-stack employee management system designed to manage organizational employees, departments, attendance, leave, tasks, performance, and documents from a centralized platform.
+
+The system provides role-based access and secure authentication for different types of users.
+
+### ✨ Key Features
+
+- 👤 Employee Management
+- 🏢 Department Management
+- ⏱️ Attendance Tracking
+- 🏖️ Leave Management
+- 📋 Task Management
+- 📊 Performance Evaluation
+- 📁 Employee Document Management
+- 🔐 JWT Authentication
+- 🛡️ Role-Based Access Control
+- 👨‍💼 Admin Dashboard
+- 🔎 Employee and department data management
+- 📡 REST API integration
+
+### 🏗️ Technical Implementation
+
+- Developed backend using **Java and Spring Boot**
+- Implemented RESTful APIs for HRMS modules
+- Used **Spring Security and JWT** for authentication and authorization
+- Used **Hibernate/JPA** for database persistence
+- Integrated **MySQL** for relational data storage
+- Developed frontend using **React.js**
+- Implemented role-based access for protected functionality
+- Followed layered backend architecture for maintainability
+
 
 ---
 
@@ -262,16 +299,35 @@ Java • Spring Boot • React.js • MySQL • Spring Security • JWT • Hibe
 
 Java • Spring Boot • PostgreSQL • Hibernate/JPA • REST APIs
 
-### Features
+### 📌 Project Overview
 
-- Contract Lifecycle Management
-- Document Management
-- Workflow Approval
-- Role-Based Authentication
-- Invoice Management
-- REST APIs
-- Notification System
-- Secure Backend Architecture
+Contract Management System is an enterprise application designed to manage contracts throughout their lifecycle, from creation and document management to approval, invoicing, and notifications.
+
+The system helps organizations maintain contract-related information in a centralized and structured platform.
+
+### ✨ Key Features
+
+- 📄 Contract Creation and Management
+- 🔄 Contract Lifecycle Management
+- 📁 Document Management
+- ✅ Workflow Approval
+- 🔐 Role-Based Authentication
+- 💰 Invoice Management
+- 📡 REST APIs
+- 🔔 Notification System
+- 📊 Contract Data Management
+- 🛡️ Secure Backend Architecture
+
+### 🏗️ Technical Implementation
+
+- Developed backend using **Java and Spring Boot**
+- Designed REST APIs for contract operations
+- Used **Hibernate/JPA** for ORM and database operations
+- Used **PostgreSQL** for persistent data storage
+- Implemented authentication and role-based access
+- Designed modular services for contract, document, invoice, and notification management
+- Followed layered architecture with Controller, Service, Repository, and Entity layers
+
 
 ---
 
@@ -281,19 +337,41 @@ Java • Spring Boot • PostgreSQL • Hibernate/JPA • REST APIs
 
 Java • Spring Boot • React.js • MongoDB • Razorpay
 
-### Features
+### 📌 Project Overview
 
-- Secure User Authentication
-- Restaurant & Menu Management
-- Shopping Cart
-- Razorpay Payment Integration
-- Real-time Order Tracking
-- Email Notifications
-- Admin Dashboard
-- Order Management
+Food Delivery System is a full-stack food ordering platform that allows users to browse restaurants and food items, manage their shopping cart, place orders, and make online payments.
 
-🔗 Repository  
+The system also provides administrative functionality for managing restaurants, menus, orders, and users.
+
+### ✨ Key Features
+
+- 🔐 Secure User Authentication
+- 🍽️ Restaurant Management
+- 📋 Menu Management
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 💳 Razorpay Payment Integration
+- 📍 Real-time Order Tracking
+- 📧 Email Notifications
+- 👨‍💼 Admin Dashboard
+- 👤 User Management
+- 📊 Order Status Management
+
+### 🏗️ Technical Implementation
+
+- Developed backend using **Java and Spring Boot**
+- Created REST APIs for users, restaurants, menus, carts, and orders
+- Used **MongoDB** for data storage
+- Built responsive frontend using **React.js**
+- Integrated **Razorpay** for online payment processing
+- Implemented authentication and authorization
+- Added email notification functionality
+- Designed separate user and admin workflows
+
+🔗 **Repository**
+
 https://github.com/Jaydip-Desai/Food-Delivery-App
+
 
 ---
 
@@ -301,18 +379,40 @@ https://github.com/Jaydip-Desai/Food-Delivery-App
 
 **Tech Stack**
 
-JSP • Servlet • MySQL
+JSP • Servlet • MySQL • HTML • CSS • Java
 
-### Features
+### 📌 Project Overview
 
-- Product Catalog
-- Shopping Cart
-- Order Placement
-- Admin Panel
-- MVC Architecture
+Jewelry Shop Web Application is a web-based e-commerce application developed for managing and selling jewelry products online.
 
-🔗 Repository  
+The application provides customers with product browsing and ordering functionality while administrators can manage products and orders.
+
+### ✨ Key Features
+
+- 💎 Product Catalog
+- 🔍 Product Browsing
+- 🛒 Shopping Cart
+- 📦 Order Placement
+- 👨‍💼 Admin Panel
+- 📋 Product Management
+- 📊 Order Management
+- 🗄️ MySQL Database
+- 🏗️ MVC Architecture
+
+### 🏗️ Technical Implementation
+
+- Developed the application using **Java Servlets and JSP**
+- Implemented MVC-based application structure
+- Used **MySQL** for database management
+- Created dynamic web pages using JSP
+- Implemented product and order management
+- Developed shopping cart functionality
+- Created administrative functionality for managing products and orders
+
+🔗 **Repository**
+
 https://github.com/Jaydip-Desai/E-Jwellary
+
 
 ---
 
@@ -320,18 +420,38 @@ https://github.com/Jaydip-Desai/E-Jwellary
 
 **Tech Stack**
 
-PHP • MySQL
+PHP • MySQL • HTML • CSS • JavaScript
 
-### Features
+### 📌 Project Overview
 
-- Responsive Website
-- Product Catalog
-- Inquiry Form
-- Admin Dashboard
+Titanic Foods & Spices is a business website developed to showcase food and spice products and provide customers with product information and an inquiry facility.
 
-🌐 Live Website  
+The website provides a responsive interface along with an administrative backend for managing website content.
+
+### ✨ Key Features
+
+- 🌐 Responsive Business Website
+- 🛍️ Product Catalog
+- 🌶️ Food & Spice Product Showcase
+- 📩 Customer Inquiry Form
+- 👨‍💼 Admin Dashboard
+- 🗄️ MySQL Database
+- 📱 Responsive Design
+- 📋 Product Management
+
+### 🏗️ Technical Implementation
+
+- Developed the application using **PHP**
+- Used **MySQL** for database management
+- Created dynamic product pages
+- Implemented customer inquiry functionality
+- Developed administrative functionality
+- Designed responsive pages for desktop and mobile devices
+- Integrated frontend and backend using PHP and MySQL
+
+🌐 **Live Website**
+
 https://titanicfoodsandspices.com
-
 
 ---
 
