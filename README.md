@@ -115,6 +115,110 @@
 
 # 🚀 Featured Projects
 
+## 🎥 MeetApp — Real-Time Video Conferencing SaaS Platform
+
+**Tech Stack**
+
+Java • Spring Boot • React.js • TypeScript • PostgreSQL • Spring Security • JWT • WebSockets • STOMP • Hibernate/JPA • Google OAuth • Maven
+
+### 📌 Project Overview
+
+MeetApp is a full-stack real-time meeting and video conferencing platform designed for creating, scheduling, joining, and managing online meetings.
+
+The application includes secure authentication, meeting scheduling, real-time communication, persistent chat, screen sharing, meeting recordings, organization management, and an admin management system.
+
+### ✨ Key Features
+
+- 🔐 JWT-based authentication
+- 🔑 Google OAuth authentication
+- 📧 Email verification
+- 👥 Role-Based Access Control
+- 📅 Meeting scheduling and management
+- 🏢 Organization and multi-user management
+- 🎥 Real-time video conferencing
+- 🎤 Real-time audio communication
+- 🖥️ Screen sharing
+- 💬 Real-time meeting chat
+- 🔄 WebSocket/STOMP real-time events
+- 🎙️ Individual participant audio recording
+- 🎬 Combined meeting recording
+- 🛡️ Admin dashboard
+- 👤 User management
+- 📊 Meeting and recording management
+- 📝 Activity and audit logs
+- 🔒 Secure API authorization
+- 📱 Responsive web interface
+- 🌐 Dynamic meeting links for network access
+
+### 🏗️ Architecture
+
+**Frontend**
+- React.js
+- TypeScript
+- Vite
+- WebSocket/STOMP
+- WebRTC
+- Responsive UI
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- REST APIs
+- WebSocket/STOMP
+- Hibernate/JPA
+- Flyway
+
+**Database**
+- PostgreSQL
+
+**Authentication**
+- JWT Authentication
+- Google OAuth
+- Email Verification
+- Role-Based Access Control
+
+### 👨‍💼 Admin Panel
+
+The platform includes a dedicated administration system for managing:
+
+- Users
+- Organizations
+- Meetings
+- Recordings
+- Chat activity
+- Security
+- Activity logs
+- Platform statistics
+- Audit events
+
+### 🎬 Recording System
+
+MeetApp supports meeting recording with:
+
+- Combined meeting recording
+- Individual participant audio recordings
+- Automatic recording lifecycle
+- Recording processing and storage
+- Admin recording management
+- Secure recording playback and download
+
+### 🔒 Security
+
+- Spring Security
+- JWT authentication
+- Role-based authorization
+- Protected REST APIs
+- Secure admin endpoints
+- Google OAuth
+- Email verification
+- Audit logging
+
+---
+
+# 🚀 Featured Projects
+
 ## 🤖 AI Resume Analyzer
 
 **Tech Stack**
